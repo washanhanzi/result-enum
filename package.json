@@ -1,0 +1,19 @@
+{
+  "name": "@washanhanzi/result-enum",
+  "version": "1.0.1",
+  "description": "rust like Result",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/washanhanzi/result-enum.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/washanhanzi/result-enum/issues"
+  },
+  "main": "src/index.ts",
+  "files": [
+    "src"
+  ],
+  "homepage": "https://github.com/washanhanzi/result-enum#readme"
+}
