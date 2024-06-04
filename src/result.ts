@@ -1,7 +1,7 @@
 // deno-lint-ignore-file no-prototype-builtins
 /* eslint-disable no-prototype-builtins */
 
-import { None, Option, Some } from "./option"
+import { None, Option, Some } from "./option.js"
 
 /**
  * A Rust-like Result class.

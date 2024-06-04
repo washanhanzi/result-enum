@@ -1,4 +1,4 @@
-import { Result, Ok, Err } from './result'
+import { Result, Ok, Err } from './result.js'
 
 export async function async<T, E extends Error>(fn: Promise<T>): Promise<Result<T, E>> {
 	try {
